@@ -1,4 +1,4 @@
-# Student_Debt- Data Visualization Project
+# Student_Debt- Data Visualization -- Group Project
 
 We  created a dashboard that show the student debt crisis. 
 We made interactive  dashboark using HTML, JAVA, Plotly in front end and MongoDB, Flask in the back end.
